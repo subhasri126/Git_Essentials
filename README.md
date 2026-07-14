@@ -34,6 +34,7 @@ A structured learning repository for understanding Git from scratch. This reposi
 - git commit
 - git push
 - git clone
+- git pull
 
 ---
 
@@ -59,12 +60,15 @@ Git-Essentials/
 │   └── 05-Git-Workflow.md
 │
 └── 03-Git-Basic-Commands/
+    │
     ├── 01-git-init.md
-    ├── 02-git-status.md
-    ├── 03-git-add.md
-    ├── 04-git-commit.md
-    ├── 05-git-push.md
-    └── 06-git-clone.md
+    ├── 02-git-clone.md
+    ├── 03-git-status.md
+    ├── 04-git-add.md
+    ├── 05-git-commit.md
+    ├── 06-git-push.md
+    ├── 07-git-pull.md
+    
 ```
 
 ---
