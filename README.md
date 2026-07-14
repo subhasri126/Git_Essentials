@@ -1,6 +1,6 @@
 # Git Essentials
 
-A structured learning repository for understanding Git from scratch. This repository covers Git fundamentals, workflow, and commonly used Git commands with simple explanations and real-world examples.
+A structured learning repository for understanding Git from scratch. This repository covers Git fundamentals, Git workflow, and essential Git commands with simple explanations, real-world scenarios, and interview-focused notes.
 
 ---
 
@@ -26,14 +26,14 @@ A structured learning repository for understanding Git from scratch. This reposi
 
 ---
 
-### 03. Git Commands
+### 03. Git Basic Commands
 
 - git init
+- git clone
 - git status
 - git add
 - git commit
 - git push
-- git clone
 - git pull
 
 ---
@@ -60,48 +60,75 @@ Git-Essentials/
 │   └── 05-Git-Workflow.md
 │
 └── 03-Git-Basic-Commands/
-    │
     ├── 01-git-init.md
     ├── 02-git-clone.md
     ├── 03-git-status.md
     ├── 04-git-add.md
     ├── 05-git-commit.md
     ├── 06-git-push.md
-    ├── 07-git-pull.md
-    
+    └── 07-git-pull.md
 ```
 
 ---
 
-##  Learning Objectives
+## 🎯 Learning Objectives
 
 - Understand the fundamentals of Git.
 - Learn the Git workflow.
-- Understand the purpose of each Git command.
+- Understand commonly used Git commands.
 - Practice Git using real-world scenarios.
 - Build a strong foundation for software development and placement interviews.
 
 ---
 
-##  Learning Roadmap
+## 🚀 Learning Roadmap
 
--  Git Fundamentals
--  Git Workflow
--  Basic Git Commands (Part 1)
+### ✅ Completed
 
+- Git Fundamentals
+- Git Workflow
+- Basic Git Commands
+  - git init
+  - git clone
+  - git status
+  - git add
+  - git commit
+  - git push
+  - git pull
 
+### 🔄 Upcoming Topics
+
+- git fetch
+- git log
+- git diff
+- git restore
+- git reset
+- .gitignore
+- Branching
+- Merge
+- Merge Conflicts
+- GitHub Collaboration
 
 ---
 
-##  Note
+## ✨ Repository Highlights
+
+- Beginner-friendly explanations
+- Interview-focused concepts
+- Real-world examples
+- Well-structured documentation
+- Easy to revise and maintain
+
+---
+
+## 📝 Note
 
 This repository is created as a personal learning resource to document Git concepts in a structured and easy-to-understand format. The content is designed for quick revision, interview preparation, and future reference.
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Subhasri S**
 
-B.E. Computer Science and Engineering  
-PSNA College of Engineering and Technology
+Computer Science Engineering Student
